@@ -4,6 +4,6 @@ Sistema de ventilador con celda solar
 ---
 Hoy en día  es una prioridad cuidar el medio ambiente  y contribuir un poco,
 por esta razon  se ha  diseñado un ventilador que funciona con celdas solares,
-donde se aprovecha toda la luz solar y a la vez  en energia electrica.
+donde se aprovecha toda la luz solar y a la vez la convierte en energia electrica.
 ---
 *Autor: Garcia  Angeles  Karen  Jocabeth*
